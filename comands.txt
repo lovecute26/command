@@ -9,6 +9,7 @@ git status - display the current status of the repository
 git log - display the commit history of the repository
 git branch - list all branches in the repository
 git checkout <branch> - switch to the specified branch
+git checkout <branch> -m <name of branch> create a new branch
 git merge <branch> - merge changes from the specified branch into the current branch
 git reset <file> - unstage a file
 git rm <file> - remove a file from the repository
