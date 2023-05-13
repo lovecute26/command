@@ -19,3 +19,4 @@ create a file - touch <file name>
 create a folder mkdir <folder name>
 open folder in vscode - code .
 
+little change
